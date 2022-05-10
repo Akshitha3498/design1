@@ -1,0 +1,107 @@
+body{
+    font-family: "fantasy";
+    
+}
+.head{
+    display: inline;
+    position: absolute;
+    left: 90px;
+    color: white;
+    top: 10px;
+    font-family: "Montserrat";
+    
+}
+h1{
+    display: inline-block;
+    padding-left: 10px;
+    font-size: 7rem;
+    font-weight: 700;
+    font-family: "Montserrat";
+    text-align: left;
+}
+.ptag{
+    font-weight: 900;
+}
+
+.im{
+    display: inline-block;
+    position: absolute;
+    top: 100px;
+    width: 500px;
+    height: 500px;
+    margin-bottom: 100px;
+    left: 60px;
+    
+    
+    
+    
+}
+
+.tex{
+    width: 500px;
+    
+    display: inline-block;
+    position: absolute;
+    top: 150px;
+    margin-left: 60px;
+    right: 200px;
+    color: white;
+    text-align: left;
+    font-family: "Montserrat";
+    
+    
+    
+}
+.bt{
+    border-radius: 30px;
+    background-color: white;
+    padding: 0 20px;
+    height: 50px;
+    width: 150px;
+    color: rgb(131, 11, 131);
+}
+
+.icons{
+    position: absolute;
+    right: 270px;
+    bottom: 0px;
+    color:white;
+    
+    
+    
+    
+}
+.backimg{
+    position: relative;
+    background-color: blueviolet;
+    
+    
+}
+
+.ic{
+    margin: 5px;
+    display: inline;
+    border-radius: 50%;
+    border: 1px solid white;
+    padding: 13px;
+    text-align: center;
+     width: 45px;
+     height: 45px;
+    vertical-align: middle;
+}
+
+.button:hover{
+    background-color: rgb(234, 121, 159);
+
+}
+
+.ic:hover{
+    border-color: rgb(234, 121, 159);
+    
+}
+
+.c:hover{
+    color: rgb(234, 121, 159) ;
+}
+
+
